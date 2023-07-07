@@ -1,1 +1,14 @@
-/.vscode
+.vscode/
+.idea/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# ignores all .md files
+.md
+
+# does not ignore the README.md file
+!README.md
